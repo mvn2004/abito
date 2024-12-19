@@ -309,13 +309,11 @@ body {
     }
 
     .content-product_left {
-        border: 1px solid red;
         flex-basis: 100%;
         width: 100%;
     }
 
     .content-product_right {
-        border: 1px solid red;
         flex-basis: 100%;
         width: 100%;
     }
